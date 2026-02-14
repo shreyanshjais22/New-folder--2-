@@ -114,7 +114,7 @@ export default function ValentineWebsite() {
       setCurrentPage(2);
       setShowYesMessage(false);
       window.scrollTo(0, 0);
-    }, 1000);
+    }, 2000);
   };
 
   const handleNoClick = () => {
